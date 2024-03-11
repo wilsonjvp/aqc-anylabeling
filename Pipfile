@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 anylabeling = "*"
 pyqt5 = "*"
-opencv-python = "==4.6.0.66"
 ipykernel = "*"
 psycopg = {extras = ["binary"], version = "*"}
 sqlalchemy = "*"

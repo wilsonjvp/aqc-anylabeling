@@ -10,5 +10,10 @@ pipenv install
 pipenv run anylabeling
 ```
 
+If there is an error with opencv library, please install an older version:
+```
+pip install opencv-python==4.6.0.66
+```
+
 ## More instructions
 For more instruction on how to use anylabeling please, refer to anylabeling [Documentation](https://anylabeling.nrl.ai/docs)
