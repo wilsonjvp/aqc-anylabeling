@@ -162,3 +162,5 @@ cython_debug/
 # Manually added by Wilson
 db
 *.csv
+*.jpg
+*.jpeg

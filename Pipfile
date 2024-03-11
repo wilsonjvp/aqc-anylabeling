@@ -12,6 +12,9 @@ psycopg = {extras = ["binary"], version = "*"}
 sqlalchemy = "*"
 python-dotenv = "*"
 pandas = "*"
+extcolors = "*"
+colordict = "*"
+Pillow = "*"
 
 [dev-packages]
 

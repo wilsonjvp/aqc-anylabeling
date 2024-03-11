@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "9fb462860ece227b72b4fa44bc645d6aea2e1cefc1dd4e3ef8b98a8e6bbd4183"
+            "sha256": "5039c128ab9509d8be203425d5dc49276618594e2421ab2ad5e6f54cb9c293b5"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -38,6 +38,14 @@
                 "sha256:b03869718ba9a6eb027e134bfdf69f38a236d681c83c160d510768af11254ba0"
             ],
             "version": "==2.4.1"
+        },
+        "colordict": {
+            "hashes": [
+                "sha256:0922f4858efedcd716f76a9ea1a4a95ef2e61f1828f0a4cd79d1ef56cda302e7",
+                "sha256:75854912094196622c7395898c364d0954078f55b32a72d774da739696977dbc"
+            ],
+            "index": "pypi",
+            "version": "==1.2.6"
         },
         "coloredlogs": {
             "hashes": [
@@ -104,6 +112,14 @@
             ],
             "markers": "python_version >= '3.9'",
             "version": "==1.2.0"
+        },
+        "convcolors": {
+            "hashes": [
+                "sha256:4036848e98ae752abac4a54acb879b6711f8dcf2f768815c85366359a287c1bd",
+                "sha256:aa5dfb9239cddd391df8aff1f6e482b242a212826a6e3427ba2e11db70836a2e"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==2.2.0"
         },
         "cycler": {
             "hashes": [
@@ -172,6 +188,14 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==2.0.1"
+        },
+        "extcolors": {
+            "hashes": [
+                "sha256:14e81457f98555ba36c07a5dde677d1d555e8f4b75633a4fad42df30a27c4f27",
+                "sha256:92bfcd137c415ca1a3463feaa75f4189a7607f5bdf78dfd6a3e924be09e5ab14"
+            ],
+            "index": "pypi",
+            "version": "==1.0.0"
         },
         "flatbuffers": {
             "hashes": [
@@ -577,7 +601,7 @@
                 "sha256:f870204a840a60da0b12273ef34f7051e98c3b5961b61b0c2c1be6dfd64fbcd3",
                 "sha256:ffa75af20b44f8dba823498024771d5ac50620e6915abac414251bd971b4529f"
             ],
-            "markers": "python_version >= '3.8'",
+            "markers": "python_version >= '3.9'",
             "version": "==1.26.4"
         },
         "onnx": {
@@ -808,7 +832,7 @@
                 "sha256:f379abd2f1e3dddb2b61bc67977a6b5a0a3f7485538bcc6f39ec76163891ee48",
                 "sha256:fe4c15f6c9285dc54ce6553a3ce908ed37c8f3825b5a51a15c91442bb955b868"
             ],
-            "markers": "python_version >= '3.8'",
+            "index": "pypi",
             "version": "==10.2.0"
         },
         "platformdirs": {
