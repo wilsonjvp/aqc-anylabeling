@@ -17,3 +17,6 @@ pip install opencv-python==4.6.0.66
 
 ## More instructions
 For more instruction on how to use anylabeling please, refer to anylabeling [Documentation](https://anylabeling.nrl.ai/docs)
+
+## Load custom model
+Follow the instructions on how to load a [Custom model](https://anylabeling.nrl.ai/docs/custom-models)

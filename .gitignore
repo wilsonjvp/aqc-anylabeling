@@ -165,3 +165,5 @@ db
 *.jpg
 *.jpeg
 *VIS.json
+.DS_STORE
+*.onnx
